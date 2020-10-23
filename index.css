@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(27,31,34,0.85);
+    margin:0px;
+}
+
+.main-header h1{
+    font-size:25px;
+    line-height:20px;
+    letter-spacing: 0.5rem;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+.main-header p{
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+.my-image{
+    width: 200px;
+    height:200px;
+    border: 3px solid #4CAF50;
+    float:left;
+    margin-left:20px;
+    margin-right:20px;
+
+}
+
+.my-image-introduction p{
+    
+    color: white;
+    margin:50px;
+    text-align:justify;
+    font-size:20px;
+    
+}
