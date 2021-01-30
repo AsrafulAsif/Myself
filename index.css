@@ -39,11 +39,16 @@ body {
 .project-list h1 {
   color: rgb(121, 33, 33);
   font-size: 20px;
-  margin-left: 250px;
   padding-top: 150px;
+  text-align: center;
+}
+.project-list ul{
+  text-align: center;
 }
 .project-list li {
   color: white;
   font-size: 20px;
-  margin-left: 250px;
+  display: inline-block;
+  margin: 20px;
+  
 }
